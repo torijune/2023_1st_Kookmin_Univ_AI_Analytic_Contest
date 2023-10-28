@@ -1,5 +1,6 @@
 # 2023_1st_Kookmin_Univ_AI_Analytic_Contest
 제1회 국민대학교 AI빅데이터 분석 경진대회
+https://dacon.io/competitions/official/236170/overview/description
 
 **[주제]**
 이력서 맞춤형 채용 공고 추천 AI 모델 개발
